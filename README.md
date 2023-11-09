@@ -5,7 +5,7 @@
 1. I'm a self-taught hacker/programmer
 2. Freelancing past 4 years as a JS/TS developer
 3. Open for Open Source collaborations
-4. Interested in team CTF participations
+4. Interested in team <a href="https://ctftime.org/team/252084">CTF</a> participations
 
 ## Tech
 
@@ -33,7 +33,7 @@
 
 </details>
 
-## Codewars
+## <a href="https://codewars.com/users/MikalaiLappo">Codewars</a>
 Top 999 | 2 kyu | 1523 Katas | Langs:
 
 <img src="https://skillicons.dev/icons?i=javascript,haskell,python,postgres" />
