@@ -5,7 +5,7 @@
 1. I'm a self-taught hacker/programmer
 2. Freelancing past 4 years as a JS/TS developer
 3. Open for Open Source collaborations
-4. Interested in team <a href="https://ctftime.org/team/252084">CTF</a> participations
+4. Interested in team <a href="https://ctftime.org/team/252084" target="_blank">CTF</a> participations
 
 ## Tech
 
@@ -33,7 +33,11 @@
 
 </details>
 
-## <a href="https://codewars.com/users/MikalaiLappo">Codewars</a>
+## <a href="https://codewars.com/users/MikalaiLappo" target="_blank">Codewars</a>
 Top {{.codewars-leaderboardPosition.}} | {{.codewars-overallRank.}} | {{.codewars-totalCompleted.}} Katas | Langs:
 
 <img src="https://skillicons.dev/icons?i={{.codewars-topLanguages.}}" />
+
+## Contacts
+
+<a href="mailto:mikalailappo@yandex.by" target="_blank">E-Mail</a> | <a href="https://t.me/MikalaiLappo" target="_blank">Telegram</a> | <a href="https://discord.com/users/1121401379349610556" target="_blank">Discord</a> | <a href="https://www.linkedin.com/in/mikalailappo/" target="_blank">Linkedin</a>
