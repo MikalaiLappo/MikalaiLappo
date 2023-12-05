@@ -1,6 +1,6 @@
 # Mikalai Lappo 
 
-**`Full Stack Developer`**
+**`TypeScript React Developer`**
 
 - Open for Open Source collaborations
 - Interested in team <a href="https://ctftime.org/team/252084" target="_blank">CTF</a> participations
