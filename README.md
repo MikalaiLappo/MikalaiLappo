@@ -2,10 +2,8 @@
 
 **`Full Stack Developer`**
 
-1. I'm a self-taught hacker/programmer
-2. Freelancing past 4 years as a JS/TS developer
-3. Open for Open Source collaborations
-4. Interested in team <a href="https://ctftime.org/team/252084" target="_blank">CTF</a> participations
+- Open for Open Source collaborations
+- Interested in team <a href="https://ctftime.org/team/252084" target="_blank">CTF</a> participations
 
 ## Tech
 
