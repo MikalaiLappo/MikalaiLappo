@@ -32,7 +32,7 @@
 </details>
 
 ## <a href="https://codewars.com/users/MikalaiLappo" target="_blank">Codewars</a>
-Top 980 | 2 kyu | 1575 Katas | Langs:
+Top 980 | 2 kyu | 1576 Katas | Langs:
 
 <img src="https://skillicons.dev/icons?i=javascript,haskell,python,postgres" />
 
