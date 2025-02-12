@@ -19,7 +19,7 @@
 </details> 
 
 ## <a href="https://codewars.com/users/MikalaiLappo" target="_blank">Codewars</a>
-Top 864 | 2 kyu | 1839 Katas | Langs:
+Top 865 | 2 kyu | 1839 Katas | Langs:
 
 <img src="https://skillicons.dev/icons?i=javascript,haskell,python,postgres" />
 
