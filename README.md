@@ -1,28 +1,37 @@
 # Mikalai Lappo 
 
-**`TypeScript React/FullStack Developer`**
+**`FullStack TypeScript (React, Node) + Go Developer`**
 
-- Open for Open Source collaborations
-- Interested in team <a href="https://ctftime.org/team/252084" target="_blank">CTF</a> participations
-
-## Tech
-
-<img src="https://skillicons.dev/icons?i=ts" />
+## Skills
+<img src="https://skillicons.dev/icons?i=ts,go" />
+<details>
+  <summary>Frontend</summary>
+  
+  - React, Next.js, Redux-toolkit, Zustand, Apollo, @tanstack/react-query
+  - MantineUI, NextUI, TailwindCSS, SCSS, CSS Modules, Figma
+  - unified.js (mdast, hast, rehype, etc.)
+</details>
 
 <details>
-  <summary>Job</summary>
-
-  - React, Next.js, Redux-toolkit, Zustand, Apollo
-  - MantineUI, MaterialUI, TailwindCSS, SCSS, CSS Modules, Figma
-  - Express, Koa, Nest, RestAPI, GraphQL, Prisma, PostgreSQL, MongoDB, Jest
+  <summary>Backend</summary>
+  
+  - TypeScript: Express, Koa, Nest, Inversify (DI), Jest, Prisma
+  - Go: gorilla (mux/ws), wire (DI), sqlc
+  - DB: PostgreSQL, MongoDB, Redis
   - Linux, Nginx, Git(lab|hub) CI, Docker
-</details> 
+</details>
+
+<details>
+  <summary>I'm into</summary>
+
+  - Static strong type systems
+  - FP, class-free OOP, compositional, and multiparadigm approaches
+  - Solana, web3.js, Solidity
+  - Rust, Zig, <a href="https://github.com/grol-io" target="_blank"> Grol </a>
+</details>
+
 
 ## <a href="https://codewars.com/users/MikalaiLappo" target="_blank">Codewars</a>
-Top 868 | 2 kyu | 1839 Katas | Langs:
+Top 869 | 2 kyu | 1839 Katas | Langs:
 
-<img src="https://skillicons.dev/icons?i=javascript,haskell,python,postgres" />
-
-## Contacts
-
-<a href="mailto:mikalailappo@yandex.by" target="_blank">E-Mail</a> | <a href="https://t.me/MikalaiLappo" target="_blank">Telegram</a> | <a href="https://discord.com/users/1121401379349610556" target="_blank">Discord</a> | <a href="https://www.linkedin.com/in/mikalailappo/" target="_blank">Linkedin</a>
+<img height="36" src="https://skillicons.dev/icons?i=javascript,haskell,python,postgres" />
