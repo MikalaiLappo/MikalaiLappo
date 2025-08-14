@@ -32,6 +32,6 @@
 
 
 ## <a href="https://codewars.com/users/MikalaiLappo" target="_blank">Codewars</a>
-Top 911 | 2 kyu | 1850 Katas | Langs:
+Top 912 | 2 kyu | 1850 Katas | Langs:
 
 <img height="36" src="https://skillicons.dev/icons?i=javascript,haskell,python,postgres" />
